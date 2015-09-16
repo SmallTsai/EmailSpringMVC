@@ -1,8 +1,8 @@
 # EmailSpringMVC
-這是一個可發送html email的web！ 
-主要目的是為了測試Art設計的RWD email模板!主要架構於 [Spring Framework](http://projects.spring.io/spring-framework/)。  
+這是一個可發送html email的web！<br/> 
+主要目的是為了測試Art設計的RWD email模板!<br/>
+主要架構於 [Spring Framework](http://projects.spring.io/spring-framework/)。
 
-<br/>
 ## 使用說明
 * 申請Gmail帳號
 
@@ -17,7 +17,6 @@
 * [http://templates.mailchimp.com/resources/inline-css/](http://templates.mailchimp.com/resources/inline-css/)
 * [http://zurb.com/ink/inliner.php](http://zurb.com/ink/inliner.php)
 
-<br/>
 ## About
 * 作者 - Louis Tsai
 
